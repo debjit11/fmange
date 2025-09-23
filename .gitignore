@@ -1,2 +1,7 @@
 pigs.csv
 annotations.xml
+.env
+poultry_diseases/
+poultry_disease_model.h5
+poultry_disease_model.keras
+Chatbot/node_modules/
